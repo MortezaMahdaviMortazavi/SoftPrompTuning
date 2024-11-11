@@ -44,6 +44,6 @@ for layer in model.decoder.block:
 ## Credits
 
 ### Author: Seyed Morteza Mahdavi
-### Position: Machine Learning Engineer at Behbahan University of Medical Sciences
+### Position: Machine Learning Engineer at Roshan
 ### GitHub: github.com/MortezaMahdaviMortazavi
 ### Contact: s.morteza.mahdavi.mortazavi@gmail.com
